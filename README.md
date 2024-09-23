@@ -1,0 +1,1 @@
+# hargaku-idm-android-studio
